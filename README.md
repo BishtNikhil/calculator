@@ -57,7 +57,8 @@ The Java version is built using `Swing` and `AWT` for the graphical user interfa
 ---
 
 ## 📸 Screenshots
-*(You can add screenshots of your calculators here later!)*
+![alt text](image.png)
+
 
 ## 🤝 Contributing
 Feel free to fork this project, submit pull requests, or send suggestions to improve the calculators!
